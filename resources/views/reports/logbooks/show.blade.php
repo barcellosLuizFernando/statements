@@ -19,7 +19,7 @@
                 <th scope="col">Usuário</th>
                 <th scope="col">Título</th>
                 <th scope="col">Data criação</th>
-                <th scope="col">Data Atualização</th>
+                <th scope="col">Data atualização</th>
             </tr>
         </thead>
         <tbody>

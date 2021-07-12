@@ -75,6 +75,7 @@ Route::get('/reports/logbooks', [LogbookController::class, 'indexreport']);
 Route::get('/reports/logbooks/{id}', [LogbookController::class, 'showreport']);
 
 Route::get('/tools/logbooks', [LogbookController::class, 'index']);
+Route::post('/tools/logbooks/images', [LogbookController::class, 'storeimages']);
 Route::get('/tools/logbooks/logbook/{id}', [LogbookController::class, 'show']);
 Route::put('/tools/logbooks/logbook/{id}', [LogbookController::class, 'update']);
 Route::delete('/tools/logbooks/logbook/{id}', [LogbookController::class, 'destroy']);

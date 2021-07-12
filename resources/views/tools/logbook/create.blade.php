@@ -71,8 +71,12 @@
             selector: 'textarea',
             language: 'pt_BR',
             plugins: 'advlist autolink lists link image charmap preview hr anchor pagebreak autoresize fullscreen table wordcount',
+            //toolbar: 'undo redo | image',
             toolbar_mode: 'floating',
-            advlist_number_styles: 'default,lower-alpha,lower-greek,lower-roman,upper-alpha,upper-roman'
+            advlist_number_styles: 'default,lower-alpha,lower-greek,lower-roman,upper-alpha,upper-roman',
+            images_upload_url: '/tools/logbooks/images',
+            automatic_uploads: false,
+            object_resizing : true
 
         });
     </script>
