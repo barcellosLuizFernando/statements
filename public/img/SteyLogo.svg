@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="124.85456mm"
+   height="22.675806mm"
+   viewBox="0 0 124.85456 22.675806"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="SteyLogo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="\\RASPSERVER\html\statements\public\img\SteyLogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.92648709"
+     inkscape:cx="349.70806"
+     inkscape:cy="36.158086"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="281.84782"
+       height="79.196456"
+       id="pattern16851">
+      <g
+         id="g15911"
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(3.7795276,0,0,3.7795276,-8.4176562,-147.8496)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.5347px;line-height:1.25;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.738369"
+           x="1.0446298"
+           y="59.149643"
+           id="text693"
+           inkscape:export-filename="\\RASPSERVER\html\statements\public\img\stey.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"><tspan
+   sodipodi:role="line"
+   id="tspan691"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, ';fill:#ffffff;fill-opacity:1;stroke-width:0.738369"
+   x="1.0446298"
+   y="59.149643">Stey</tspan></text>
+      </g>
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.2271715,-39.11854)">
+    <path
+       style="fill:none;stroke:#b5b7af;stroke-width:0.787037;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 78.533651,51.831566 H 127.08173"
+       id="path7037" />
+    <rect
+       style="fill:#b5b7af;fill-opacity:1;stroke:#b5b7af;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8208-2"
+       width="9.3790178"
+       height="9.3790178"
+       x="109.49709"
+       y="-45.575191"
+       ry="1.3837897"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#b5b7af;fill-opacity:1;stroke:#b5b7af;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8208-2-2"
+       width="9.3790178"
+       height="9.3790178"
+       x="99.933327"
+       y="-36.011444"
+       ry="1.3837897"
+       transform="rotate(45)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#b5b7af;stroke-width:0.787037;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8208"
+       width="13.710336"
+       height="13.710336"
+       x="102.64102"
+       y="-43.227787"
+       ry="0"
+       transform="rotate(45)" />
+    <rect
+       style="stroke:none;fill:url(#pattern16851)"
+       transform="matrix(0.26458333,0,0,0.26458333,2.2271715,39.11854)"
+       width="281.84782"
+       height="79.196456"
+       x="1.0288554e-07"
+       y="-3.1035356e-08"
+       id="rect16856" />
+  </g>
+</svg>
