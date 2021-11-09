@@ -23,7 +23,7 @@
       <a href="/reports/logbooks" class="card-link">Voltar</a>
     </div>
     <div class="card-footer text-center text-muted">
-        {{ 'Criado em: ' . date('m/d/Y H:i:s', strtotime($logbook->created_at)) . '. Atualizado em: ' . date('m/d/Y H:i:s', strtotime($logbook->updated_at)) }}
+        {{ 'Criado em: ' . date('d/m/Y H:i:s', strtotime($logbook->created_at)) . '. Atualizado em: ' . date('d/m/Y H:i:s', strtotime($logbook->updated_at)) }}
       </div>
   </div>
 
